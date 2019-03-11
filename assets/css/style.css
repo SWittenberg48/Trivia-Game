@@ -1,0 +1,46 @@
+/* * {
+  background-color: navy;
+  text-align: center;
+} */
+
+#jumbotron {
+  position: relative;
+  text-align: center;
+  color: orange;
+  background-image: url(../images/picture-of-a-football-5.jpg);
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+#timer {
+  position: absolute;
+  float: left;
+  font-size: 25px;
+  font-weight: 600;
+  padding-top: 30px;
+}
+h2 {
+  color: navy;
+  background-color: orange;
+}
+
+.quiz {
+  display: none;
+  color: orange;
+  background-color: navy;
+}
+.summary {
+  color: orange;
+  background-color: navy;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.selected {
+  background: orange;
+  font-size: 25px;
+  color: navy;
+}
+
+img {
+  align-content: center;
+}
